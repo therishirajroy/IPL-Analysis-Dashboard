@@ -67,19 +67,14 @@ Interactive map showing the geographical distribution of IPL matches.
 ---
 
 ## 📂 Project Structure
-
+```text
 IPL-Analysis-Dashboard/
-
 │
-
 ├── IPL.xlsx
-
 ├── IPL Analysis.pbix
-
 ├── Dashboard.png 
-
 └── README.md
-
+```
 ---
 
 ## 📊 Data Source
@@ -115,5 +110,5 @@ Data includes information on:
 
 Rishiraj Roy
 🎓 M.Sc. in Big Data Analytics
-📍 XYZ University
+📍 St. Xavier's College, Mumbai
 📧 [Connect on LinkedIn](https://www.linkedin.com/in/therishirajroy/)
