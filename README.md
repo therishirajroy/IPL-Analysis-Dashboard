@@ -67,12 +67,13 @@ Interactive map showing the geographical distribution of IPL matches.
 ---
 
 ## 📂 Project Structure
+
 IPL-Analysis-Dashboard/
 │
-├── data/ # Dataset files (if included)
-├── visuals/ # Screenshots or exports from Power BI
-├── Screenshot 2025-10-06 221251.png # Dashboard preview
-└── README.md # Project documentation
+├── data/ 
+├── visuals/
+├── Dashboard.png 
+└── README.md
 ---
 
 ## 📊 Data Source
