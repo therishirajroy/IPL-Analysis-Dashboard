@@ -69,10 +69,15 @@ Interactive map showing the geographical distribution of IPL matches.
 ## 📂 Project Structure
 
 IPL-Analysis-Dashboard/
+
 │
-├── data/ 
-├── visuals/
+
+├── IPL.xlsx
+
+├── IPL Analysis.pbix
+
 ├── Dashboard.png 
+
 └── README.md
 
 ---
