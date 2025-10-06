@@ -1,6 +1,6 @@
 # 🏏 IPL Analysis Dashboard
 
-![IPL Dashboard Preview](Screenshot%202025-10-06%20221251.png)
+![IPL Dashboard Preview](visuals/Dashboard.png)
 
 ## 📘 Project Overview
 
@@ -74,6 +74,7 @@ IPL-Analysis-Dashboard/
 ├── visuals/
 ├── Dashboard.png 
 └── README.md
+
 ---
 
 ## 📊 Data Source
